@@ -1,0 +1,23 @@
+*{  
+    justify-content: center;
+    align-items: center;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+
+
+.buttons{
+    padding-top: 20px;
+}
+
+button{
+    padding: 20px;
+    font-size: 30px;
+    margin: 14px;
+}
+
+.nums{
+    margin-right: 25%;
+}
+ 
